@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.dplayend.merenc.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MixinDamageEnchantment",
+    "MixinDepthStriderEnchantment",
+    "MixinFrostWalkerEnchantment",
+    "MixinInfinityEnchantment",
+    "MixinMultishotEnchantment",
+    "MixinPiercingEnchantment",
+    "MixinProtectionEnchantment",
+    "MixinRiptideEnchantment",
+    "MixinTridentItem"
+  ],
+  "client": [],
+  "injectors": { "defaultRequire": 1 }
+}
