@@ -15,5 +15,7 @@
   "key.merenc.silkTouch" : "Activar/Desactivar Toque de Seda",
   "text.merenc.enabledSilkTouch" : "§2Toque de Seda §fEncendido",
   "text.merenc.disabledSilkTouch" : "§2Toque de Seda §fApagado",
-  "enchantment.level.0" : ""
+  "enchantment.level.0" : "",
+  "text.cloth-config.boolean.value.true": "§aSi",
+  "text.cloth-config.boolean.value.false": "§cNo"
 }
