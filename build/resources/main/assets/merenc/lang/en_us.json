@@ -1,0 +1,19 @@
+{
+  "text.autoconfig.merenc.title" : "Merge Enchantments Config",
+  "text.autoconfig.merenc.category.General" : "General",
+  "text.autoconfig.merenc.option.protection" : "Merge Protection Enchantments",
+  "text.autoconfig.merenc.option.bow" : "Merge Infinity & Mending Enchantments",
+  "text.autoconfig.merenc.option.crossbow" : "Merge Multishot & Piercing Enchantments",
+  "text.autoconfig.merenc.option.weapon" : "Merge Sword Enchantments",
+  "text.autoconfig.merenc.option.trident" : "Merge Trident Enchantments",
+  "text.autoconfig.merenc.option.boots" : "Merge Frost Walker & Depth Strider Enchantments",
+  "text.autoconfig.merenc.option.silkTouch" : "Merge Silk Touch & Fortune Enchantments",
+  "category.merenc.mergeEnchantments" : "Merge Enchantments",
+  "key.merenc.frostWalker" : "Toggle Frost Walker",
+  "text.merenc.enabledFrostWalker" : "§bFrost Walker §fEnabled",
+  "text.merenc.disabledFrostWalker" : "§bFrost Walker §fDisabled",
+  "key.merenc.silkTouch" : "Toggle Silk Touch",
+  "text.merenc.enabledSilkTouch" : "§2Silk Touch §fEnabled",
+  "text.merenc.disabledSilkTouch" : "§2Silk Touch §fDisabled",
+  "enchantment.level.0" : ""
+}
