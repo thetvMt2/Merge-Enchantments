@@ -15,5 +15,7 @@
   "key.merenc.silkTouch" : "Toggle Silk Touch",
   "text.merenc.enabledSilkTouch" : "§2Silk Touch §fEnabled",
   "text.merenc.disabledSilkTouch" : "§2Silk Touch §fDisabled",
-  "enchantment.level.0" : ""
+  "enchantment.level.0" : "",
+  "text.cloth-config.boolean.value.true": "§aYes",
+  "text.cloth-config.boolean.value.false": "§cNo"
 }
