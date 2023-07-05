@@ -1,0 +1,35 @@
+{
+  "text.merenc.config.title" : "Merge Enchantments Einstellungen",
+  "text.merenc.config.protection" : "Schutzverzauberungen kombinieren",
+  "text.merenc.config.bow" : "Kombiniere Unendlichkeit mit Reparatur",
+  "text.merenc.config.crossbow" : "Kombiniere Mehrfachschuss mit Durchschuss",
+  "text.merenc.config.weapon" : "Kombiniere Schwert mit Axt Verzauberungen",
+  "text.merenc.config.trident" : "Kombiniere alle Dreizack Verzauberungen",
+  "text.merenc.config.boots" : "Kombiniere Eisläufer mit Wasserläufer Verzauberung",
+  "text.merenc.config.silkTouch" : "Kombiniere Behutsamkeit mit Glück",
+
+  "text.merenc.config.protection.tooltip" : "Es können alle Schutzverzauberungen kombiniert werden. [standard = ja]",
+  "text.merenc.config.bow.tooltip" : "Es können alle Bogenverzauberungen kombiniert werden. [standard = ja]",
+  "text.merenc.config.crossbow.tooltip" : "Du kannst alle Armbrust-Verzauberungen kombinieren. [standard = ja]",
+  "text.merenc.config.weapon.tooltip" : "Du kannst alle Schwert- und Axt-verzauberungen kombinieren. [standard = ja]",
+  "text.merenc.config.trident.tooltip" : "Du kannst alle Verzauberungen des Dreizacks kombinieren. [standard = ja]",
+  "text.merenc.config.boots.tooltip" : "Du kannst alle Verzauberungen der Stiefel kombinieren. [standard = ja]",
+  "text.merenc.config.silkTouch.tooltip" : "Du kannst jedes Werkzeug mit Behutsamkeit und Glück kombinieren. [standard = ja]",
+
+  "text.merenc.tooltip.enabledSilkTouch" : "§2Behutsamkeit §faktiviert",
+  "text.merenc.tooltip.disabledSilkTouch" : "§2Behutsamkeit §fdeaktiviert",
+  "text.merenc.tooltip.enabledFrostWalker" : "§bEisläufer §faktiviert",
+  "text.merenc.tooltip.disabledFrostWalker" : "§bEisläufer §fdeaktiviert",
+
+  "key.merenc.title" : "Kombiniere Verzauberungen",
+  "key.merenc.silkTouch" : "Behutsamkeit an/aus schalten",
+  "key.merenc.frostWalker" : "Eisläufer an/aus schalten",
+
+  "enchantment.level.0" : "",
+
+  "text.cloth-config.boolean.value.true": "§aJa",
+  "text.cloth-config.boolean.value.false": "§cNein",
+  "text.cloth-config.save_and_done": "Speichern & Verlassen",
+  "text.cloth-config.reset_value": "Zurücksetzten",
+  "text.cloth.reset_value": "Zurücksetzten"
+}
